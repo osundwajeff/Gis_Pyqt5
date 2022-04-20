@@ -12,11 +12,17 @@ folder and check out the two shapefiles that are contained in the zip file, coun
 OSMpoints.shp, in ArcGIS.
 
 **Your program will provide the GUI that allows the user:**
-- | i. | to select the two input files (country file and POI file) |
-- | ii. | to provide the name of the target country |
-- | iii. | to specifiy the name of the output shapefile that will be produced with the extracted shop features |
-- | iv. | and to indicate whether all shops or only shops of a particular type should be extracted (and if so, which type) |
+- i. to select the two input files (country file and POI file)
+- ii. to provide the name of the target country
+- iii. to specifiy the name of the output shapefile that will be produced with the extracted shop features
+- iv. and to indicate whether all shops or only shops of a particular type should be extracted (and if so, which type)
 
 All files making up your project should be included in your submission for this assignment
 including the .ui file created with QT Designer. Please also include a screenshot showing the
 GUI of your program while the program is being executed.
+
+```
+#Python=3.7
+#Arcpy module=3.7
+#ArcGIS Pro
+```
