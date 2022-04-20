@@ -10,11 +10,11 @@ supposed to be run as a script tool inside **ArcGIS**, and that's why it needs i
 program will realize a simple workflow for extracting features from a shapefile on disk based
 on **selection by attribute** and **selection by location**.
 
-**Your program will provide the GUI that allows the user:**
-	- to select the two input files (country file and POI file)
-	- to provide the name of the target country
-	- to specifiy the name of the output shapefile that will be produced with the extracted shop features
-	- to indicate whether all shops or only shops of a particular type should be extracted (and if so, which type)
+#### Your program will provide the GUI that allows the user:
+- **to select the two input files (country file and POI file)**
+- **to provide the name of the target country**
+- **to specifiy the name of the output shapefile that will be produced with the extracted shop features**
+- **to indicate whether all shops or only shops of a particular type should be extracted (and if so, which type)**
 
 All files making up your project should be included in your submission for this assignment
 including the .ui file created with QT Designer. Please also include a screenshot showing the
