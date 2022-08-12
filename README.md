@@ -27,4 +27,4 @@ GUI of your program while the program is being executed.
 #ArcGIS Pro
 ```
 ### App interface
-![](main_progrmam/GisProgram.png)
+![](https://github.com/osundwajeff/pyqt5/blob/main/main_program/GisProgram.png)
