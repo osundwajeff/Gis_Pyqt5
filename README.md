@@ -27,4 +27,4 @@ GUI of your program while the program is being executed.
 #ArcGIS Pro
 ```
 ### App interface
-![App](main_progrmam/GisProgram.png)
+![](main_progrmam/GisProgram.png)
